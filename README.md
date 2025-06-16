@@ -1,15 +1,15 @@
 # API-Logger-Extension
-A powerful Chrome extension to capture, view, and download API requests and responses (fetch/XHR) from any webpage.
+An effective Chrome addon for recording, viewing, and downloading fetch/XHR API requests and responses from any website.
 
-## 🚀 Features
+##  Features
 
-- ✅ Logs all outgoing fetch and XHR requests
-- ✅ Captures both request and response data
-- ✅ Filters JSON responses automatically
-- ✅ View captured APIs in a user-friendly popup UI
-- ✅ One-click download of full API response logs as `.json`
-- ✅ Works on most websites, including APIs with query params
-
+-  All outgoing fetch and XHR requests are logged
+-  Request and response data are captured
+-  JSON responses are automatically filtered
+-  Captured APIs are displayed in the popup user interface
+-  Complete API response logs can be downloaded in a single click as `.json`
+   and it is compatible with the majority of websites, including those with query parameters.
+   
 ---
 
 
